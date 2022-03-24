@@ -106,15 +106,6 @@ namespace Youtube // a namespace - used for organization
             Console.WriteLine(name.Trim());
 
 
-
-
-            
-
-
-
-
-
-
             int[] s = { -20 };
             int[] t = s;
 
@@ -135,7 +126,7 @@ namespace Youtube // a namespace - used for organization
             s = 100;
         }
 
-        void Print()
+        void Print() 
         {
             string x = Console.ReadLine();
             Console.WriteLine(x);
